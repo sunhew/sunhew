@@ -5,6 +5,17 @@
 ## 📧 @naver.com
 ❗현제는 페이지 제작중이여서 상세 주소는 밝히고 있지않습니다.❗   
 
+## 🛠️ ...Making...
+[Quiz](https://sunhew.github.io/class2024//quiz/index.html)   
+
+[Main Page](https://sunhew.github.io/class2024/)   
+
+[JavaScript](https://sunhew.github.io/class2024/javascript/index.html)   
+
+[MySQL](https://sunhew.github.io/class2024/mysql/index.html)   
+
+[Web Design](https://sunhew.github.io/class2024/webd/index.html)      
+
 ## 🖱️ Possible Technology
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
