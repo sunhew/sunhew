@@ -1,9 +1,11 @@
-
 # 😺 HELLO!
-
+   제 GitHub에 방문해주셔서 감사합니다. ❤️   
+   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!
+   
 ## 📧 @naver.com
+❗현제는 페이지 제작중이여서 상세 주소는 밝히고 있지않습니다.❗   
 
-## 🖱️ 다룰 수 있는 기능
+## 🖱️ Possible Technology
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
