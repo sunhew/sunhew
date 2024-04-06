@@ -1,3 +1,9 @@
+<!-- <div align="center">
+  <img src="https://github.com/nicejmp1/nicejmp1/assets/163364733/5b7c2a40-70d2-4728-aed8-5cc2faa46f4d" />
+</div> -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SunHew%20&height=300&fontSize=100&animation=fadeIn&fontAlign=75)
+
 # 😺 HELLO!
    제 GitHub에 방문해주셔서 감사합니다. ❤️   
    여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!
@@ -17,6 +23,7 @@
 [Web Design](https://sunhew.github.io/class2024/webd/index.html)      
 
 ## 🖱️ Possible Technology
+<div class="icon-container">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -40,3 +47,6 @@
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+ </div>
+
+ ![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient)
