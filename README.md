@@ -2,7 +2,7 @@
   <img src="https://github.com/nicejmp1/nicejmp1/assets/163364733/5b7c2a40-70d2-4728-aed8-5cc2faa46f4d" />
 </div> -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SunHew%20&height=300&fontSize=100&animation=fadeIn&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SunHew%20&height=300&fontSize=100&animation=fadeIn&fontAlign=25)
 
 # 😺 HELLO!
    제 GitHub에 방문해주셔서 감사합니다. ❤️   
