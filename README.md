@@ -9,7 +9,7 @@
 
 # 😺 HELLO!
    제 GitHub에 방문해주셔서 감사합니다. ❤️   
-   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!
+   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!   
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunhew&layout=compact&theme=radical">
 </td></tr></table>
