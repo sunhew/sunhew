@@ -25,7 +25,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](//메일주소)
 
 ## 💻 Project
-> 첫번째 프로젝트 [CodePin](https://github.com/sunhew/CodePin)
+> 첫번째 프로젝트 [CoffeeMenu](https://coffee-api-rosy.vercel.app/)
 > > 두번째 프로젝트 (준비중).
 >	> > 세번째 프로젝트 (준비중).
 >	>	> > 개인 프로젝트
@@ -34,14 +34,19 @@
 
 ### 🛠️ ...Making...
 [Quiz Game](https://sunhew.github.io/class2024//quiz/index.html)   
+<img src="https://github.com/sunhew/Menucoffee/assets/161446039/57334db0-55fd-436e-9b1f-f7b4d925a60b" alt="디자인 맵" width="90%"/>
 
 [Main Page](https://sunhew.github.io/class2024/)   
+<img src="https://github.com/sunhew/Menucoffee/assets/161446039/78468503-97e9-47e3-a9ce-b4d5fca6f686" alt="디자인 맵" width="90%"/>
 
 [JavaScript](https://sunhew.github.io/class2024/javascript/index.html)   
+<img src="https://github.com/sunhew/Menucoffee/assets/161446039/2654af56-de52-46be-a794-d6afd2aeeb4b" alt="디자인 맵" width="90%"/>
 
 [MySQL](https://sunhew.github.io/class2024/mysql/index.html)   
+<img src="https://github.com/sunhew/Menucoffee/assets/161446039/bcb8ce71-38a2-49a1-a745-d6dd6d0bf446" alt="디자인 맵" width="90%"/>
 
 [Web Design](https://sunhew.github.io/class2024/webd/index.html)      
+<img src="https://github.com/sunhew/Menucoffee/assets/161446039/1c7bc725-a0a3-492a-9ae7-ca644246e972" alt="디자인 맵" width="90%"/>
 
 * * *
 
@@ -57,7 +62,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white" height="25px">
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 </div>
 
 * * *
@@ -65,7 +70,7 @@
 ### 📖 Pkills that you're preparing to learn
 <div class="icon-container">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
