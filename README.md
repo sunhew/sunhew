@@ -34,19 +34,25 @@
 
 ### 🛠️ ...Making...
 [Quiz Game](https://sunhew.github.io/class2024//quiz/index.html)   
-<img src="https://github.com/sunhew/Menucoffee/assets/161446039/57334db0-55fd-436e-9b1f-f7b4d925a60b" alt="디자인 맵" width="90%"/>
+`JSON`과 `JAVASCRIPT`를 이용해 만든 __퀴즈 게임 사이트__ 입니다. 퀴즈게임의 문제는 __쉽게 수정이 가능하게 하기 위해 JSON에 퀴즈게임에 들어갈 정보를 담았으며, JAVASCRIPT를 이용해 정보를 불러와__ 문제를 풀고 점수를 확인 할 수 있게 하는등의 기능을 담았습니다.
 
 [Main Page](https://sunhew.github.io/class2024/)   
-<img src="https://github.com/sunhew/Menucoffee/assets/161446039/78468503-97e9-47e3-a9ce-b4d5fca6f686" alt="디자인 맵" width="90%"/>
+메인 페이지는 지금까지 했었던 수업 내용이나 프로젝트등의 링크들이 각각의 아이콘으로 모여있습니다. 
 
 [JavaScript](https://sunhew.github.io/class2024/javascript/index.html)   
-<img src="https://github.com/sunhew/Menucoffee/assets/161446039/2654af56-de52-46be-a794-d6afd2aeeb4b" alt="디자인 맵" width="90%"/>
+`JAVASCRIPT`의 함수와 이벤트 등의 개념을 정리한 사이트입니다. __이제 막 코딩을 시작한 사람__ 들도 유용한 정보를 쉽게 알아갈 수 있도록 __각각의 함수와 이벤트의 설명과 예시 코드, 정답 및 해설__ 등이 포함되어있습니다.
 
 [MySQL](https://sunhew.github.io/class2024/mysql/index.html)   
-<img src="https://github.com/sunhew/Menucoffee/assets/161446039/bcb8ce71-38a2-49a1-a745-d6dd6d0bf446" alt="디자인 맵" width="90%"/>
+`MY SQL`의 명령어나 개념등을 정리한 사이트입니다. SQL문에는 어떠한것이 있는지와 사용하는 방법등을 다루고 있는 정보를 다루고있습니다.
 
 [Web Design](https://sunhew.github.io/class2024/webd/index.html)      
-<img src="https://github.com/sunhew/Menucoffee/assets/161446039/1c7bc725-a0a3-492a-9ae7-ca644246e972" alt="디자인 맵" width="90%"/>
+웹 디자인 기능사 실기의 정보를 다루고있는 사이트입니다. 해당 사이트에는 기능사 실기 모든 유형을 제작한 사이트들이 예시 그림과 함께 올라가있으며 유형들 역시 pdf 파일을 설정해 이 사이트에서 확인 가능합니다.
+
+[YOUTUBE-api](https://attraction-five.vercel.app/)
+유튜브 api를 사용해 제작한 사이트입니다. 간단한 키워드와 다양한 검색 기능을 제공하고 있습니다.
+
+[My PlayList](https://youtubmusic-2vksa5bhq-sunhews-projects.vercel.app/)
+유튜브 api와 json을 이용해 제작한 뮤직 플레이 사이트입니다. 플레이 리스트 저장과 음악 검색기능등을 제공하며 원하는 음악을 뮤비와 함께 무료로 감상 가능합니다.
 
 * * *
 
