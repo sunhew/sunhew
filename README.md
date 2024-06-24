@@ -25,7 +25,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](//메일주소)
 
 ## 💻 Project
-> 첫번째 프로젝트 [CoffeeMenu](https://coffeemenu-eight.vercel.app/)
+> 첫번째 프로젝트 [CoffeeMenu](https://coffee-api-rosy.vercel.app/producerpik)
 > > 두번째 프로젝트 (준비중).
 >	> > 세번째 프로젝트 (준비중).
 >	>	> > 개인 프로젝트
