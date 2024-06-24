@@ -49,13 +49,15 @@
 웹 디자인 기능사 실기의 정보를 다루고있는 사이트입니다. 해당 사이트에는 기능사 실기 모든 유형을 제작한 사이트들이 예시 그림과 함께 올라가있으며 유형들 역시 pdf 파일을 설정해 이 사이트에서 확인 가능합니다.
 
 [YOUTUBE-api](https://attraction-five.vercel.app/)
+[YOUTUBE-api 깃허브](https://github.com/sunhew/attraction)
 유튜브 api를 사용해 제작한 사이트입니다. 간단한 키워드와 다양한 검색 기능을 제공하고 있습니다.
 
 [My PlayList](https://youtubmusic-2vksa5bhq-sunhews-projects.vercel.app/)
+[My PlayList 깃허브](https://github.com/sunhew/youtubmusic)
 유튜브 api와 json을 이용해 제작한 뮤직 플레이 사이트입니다. 플레이 리스트 저장과 음악 검색기능등을 제공하며 원하는 음악을 뮤비와 함께 무료로 감상 가능합니다.
 
-[CoffeeMenu](https://github.com/sunhew/coffeemenu)
-수수 PYHON만을 사용한 커피 메뉴 사이트입니다. Pyhon을 사용해 정보들을 자동 수집하고 사용자들에게 제공합니다.
+[CoffeeMenu 깃허브](https://github.com/sunhew/coffeemenu)
+순수 PYHON만을 사용한 커피 메뉴 사이트입니다. Pyhon을 사용해 정보들을 자동 수집하고 사용자들에게 제공합니다.
 
 * * *
 
