@@ -54,6 +54,9 @@
 [My PlayList](https://youtubmusic-2vksa5bhq-sunhews-projects.vercel.app/)
 유튜브 api와 json을 이용해 제작한 뮤직 플레이 사이트입니다. 플레이 리스트 저장과 음악 검색기능등을 제공하며 원하는 음악을 뮤비와 함께 무료로 감상 가능합니다.
 
+[CoffeeMenu](https://github.com/sunhew/coffeemenu)
+수수 PYHON만을 사용한 커피 메뉴 사이트입니다. Pyhon을 사용해 정보들을 자동 수집하고 사용자들에게 제공합니다.
+
 * * *
 
 ### 🖱️ Possible Technology
