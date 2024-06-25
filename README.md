@@ -9,29 +9,9 @@
 
 # 😺 HELLO!
    제 GitHub에 방문해주셔서 감사합니다. ❤️   
-   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!   
+   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!  
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunhew&layout=compact&theme=radical">
-</td></tr></table>
-
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearboy&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunhew&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
    
-## 📧 @Mail
-❗현제는 페이지 제작중이여서 상세 주소는 밝히고 있지않습니다.❗   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlgk@gmail.com)]()
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](//메일주소)
-
-## 💻 Project
-> 첫번째 프로젝트 [CoffeeMenu](https://coffee-api-rosy.vercel.app/producerpik)
-> > 두번째 프로젝트 (준비중).
->	> > 세번째 프로젝트 (준비중).
->	>	> > 개인 프로젝트
-
-* * *
-
 ### 🛠️ ...Making...
 [Quiz Game](https://sunhew.github.io/class2024//quiz/index.html)   
 `JSON`과 `JAVASCRIPT`를 이용해 만든 __퀴즈 게임 사이트__ 입니다. 퀴즈게임의 문제는 __쉽게 수정이 가능하게 하기 위해 JSON에 퀴즈게임에 들어갈 정보를 담았으며, JAVASCRIPT를 이용해 정보를 불러와__ 문제를 풀고 점수를 확인 할 수 있게 하는등의 기능을 담았습니다.
@@ -60,6 +40,28 @@
 순수 PYHON만을 사용한 커피 메뉴 사이트입니다. Pyhon을 사용해 정보들을 자동 수집하고 사용자들에게 제공합니다.
 
 * * *
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunhew&layout=compact&theme=radical">
+</td></tr></table>
+
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearboy&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunhew&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+   
+## 📧 @Mail
+❗현제는 페이지 제작중이여서 상세 주소는 밝히고 있지않습니다.❗   
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnlgk@gmail.com)]()
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gnlgk@naver.com)](//메일주소)
+
+## 💻 Project
+> 첫번째 프로젝트 [CoffeeMenu](https://coffee-api-rosy.vercel.app/producerpik)
+> > 두번째 프로젝트 (준비중).
+>	> > 세번째 프로젝트 (준비중).
+>	>	> > 개인 프로젝트
+
+* * *
+
 
 ### 🖱️ Possible Technology
 <div class="icon-container">
