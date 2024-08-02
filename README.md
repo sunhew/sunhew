@@ -7,7 +7,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SunHew%20&height=300&fontSize=100&animation=fadeIn&fontAlign=25)
 
-<<<<<<< HEAD
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunhew&layout=compact&theme=radical">
 </td></tr></table>
 
