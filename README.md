@@ -33,13 +33,10 @@
 
 * * *
 
-=======
 # 😺 HELLO!
    제 GitHub에 방문해주셔서 감사합니다. ❤️   
    여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!  
 
-   
->>>>>>> 9f0010b8bdb10f1fa9378ed1c899f4a8af8dccff
 ### 🛠️ ...Making...
 [Quiz Game](https://sunhew.github.io/class2024//quiz/index.html)   
 `JSON`과 `JAVASCRIPT`를 이용해 만든 __퀴즈 게임 사이트__ 입니다. 퀴즈게임의 문제는 __쉽게 수정이 가능하게 하기 위해 JSON에 퀴즈게임에 들어갈 정보를 담았으며, JAVASCRIPT를 이용해 정보를 불러와__ 문제를 풀고 점수를 확인 할 수 있게 하는등의 기능을 담았습니다.
