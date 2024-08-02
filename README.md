@@ -57,7 +57,7 @@
 [YOUTUBE-api 깃허브](https://github.com/sunhew/attraction)
 유튜브 api를 사용해 제작한 사이트입니다. 간단한 키워드와 다양한 검색 기능을 제공하고 있습니다.
 
-[My PlayList](https://youtubmusic-2vksa5bhq-sunhews-projects.vercel.app/)
+[My PlayList](https://youtubmusic.vercel.app/)
 [My PlayList 깃허브](https://github.com/sunhew/youtubmusic)
 유튜브 api와 json을 이용해 제작한 뮤직 플레이 사이트입니다. 플레이 리스트 저장과 음악 검색기능등을 제공하며 원하는 음악을 뮤비와 함께 무료로 감상 가능합니다.
 
