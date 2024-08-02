@@ -7,10 +7,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SunHew%20&height=300&fontSize=100&animation=fadeIn&fontAlign=25)
 
-# 😺 HELLO!
-   제 GitHub에 방문해주셔서 감사합니다. ❤️   
-   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!   
-
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunhew&layout=compact&theme=radical">
 </td></tr></table>
 
@@ -18,6 +14,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearboy&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunhew&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+
+# 😺 HELLO!
+   제 GitHub에 방문해주셔서 감사합니다. ❤️   
+   여기에서는 간단한 소개를 다루고 있으니 참고 바랍니다!   
    
 ## 📧 @Mail
 ❗현제는 페이지 제작중이여서 상세 주소는 밝히고 있지않습니다.❗   
@@ -26,7 +26,7 @@
 
 ## 💻 Project
 > 첫번째 프로젝트 [CoffeeMenu](https://coffeemenu-eight.vercel.app/)
-> > 두번째 프로젝트 (준비중).
+> > 두번째 프로젝트 [Add font] 제작중
 >	> > 세번째 프로젝트 (준비중).
 >	>	> > 개인 프로젝트
 
@@ -58,6 +58,10 @@
 
 [CoffeeMenu 깃허브](https://github.com/sunhew/coffeemenu)
 순수 PYHON만을 사용한 커피 메뉴 사이트입니다. Pyhon을 사용해 정보들을 자동 수집하고 사용자들에게 제공합니다.
+
+[vue.js](https://vue-port-theta.vercel.app/)
+veu.js와 json을 활용해 제작한 포트폴리오 사이트입니다.   
+매우 간단한 구조이지만 모든 정보를 json 파일에서 정보를 불러와 화면에 표시했습니다.
 
 * * *
 
